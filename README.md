@@ -11,12 +11,5 @@ Musubi solves the "monolith problem" by breaking a traditional online store into
 * **Event-Driven Processing:** High-speed order handling that processes payments and stock updates without making the customer wait.
 * **Real-Time Engagement:** An automated notification engine providing instant order tracking and status updates.
 
-
-
-## 🛠 Tech Stack
-* **Backend:** Java 21, Spring Boot, Spring Cloud, Kafka.
-* **Frontend:** React 19, Tailwind CSS.
-* **Infrastructure:** PostgreSQL, Docker, Redis.
-
 ## 🚀 Impact
 This project demonstrates the ability to build scalable, self-healing enterprise systems that prioritize user experience and business reliability.
